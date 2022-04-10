@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @xy-bin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 http://xybin.top
+👋你好，我是@xy-bin
+👀我感兴趣的是 研究究极文学
+🌱我目前正在学习 Linux
+💞️我正在寻求合作 
+📫 我的博客地址：http://xybin.top
 
-<!---
-xy-bin/xy-bin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
