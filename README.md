@@ -6,5 +6,5 @@
 
 💞️我正在寻求合作
 
-📫 我的博客地址：http://xybin.top
+📫 我的博客地址：http://blog.xybin.top
 
